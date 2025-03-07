@@ -2,7 +2,7 @@
 const app = require("express")()
 const path = require("path")
 
-// function that takes two numbers and returns their sum
+// a function that takes two numbers and returns their sum
 function addTwoNumbers(n1, n2) {
     return n1 + n2
 }
